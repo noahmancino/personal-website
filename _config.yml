@@ -59,6 +59,6 @@ topics:
   - web_url: https://github.com/topics/linux
   - image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
     
-   - name: Deep Learning
-   - web_url: https://github.com/topics/deep-learning
-   - image_url: https://upload.wikimedia.org/wikipedia/commons/6/68/Gradient_ascent_%28surface%29.png
+  - name: Deep Learning
+  - web_url: https://github.com/topics/deep-learning
+  - image_url: https://upload.wikimedia.org/wikipedia/commons/6/68/Gradient_ascent_%28surface%29.png
