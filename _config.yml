@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: commits
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
